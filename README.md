@@ -1,4 +1,4 @@
-![CI badge](https://github.com/b0938930511/ST-2022-310554034/actions/workflows/action.yml/badge.svg)
+![CI badge](https://github.com/b0938930511/ST-2022-310554034/actions/workflows/github_action.yml/badge.svg)
 # ST-2022-310554034
 
 # Pass
